@@ -11,3 +11,4 @@ brist/vendor/
 *vendor*
 *xxxx*
 *.lock*
+*.DS_Store*
